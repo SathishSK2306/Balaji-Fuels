@@ -1,0 +1,36 @@
+body{
+    
+    background-color: rgb(99, 238, 238);
+    text-align: center;
+    text-decoration-style: double ;
+}
+#hed{
+    text-decoration: underline;
+    text-size-adjust: flex;
+}
+#det{
+    text-align: right;
+    padding-top: 0em;
+    padding-right: 4em;
+    padding-bottom: 1em;
+}
+.img{
+    
+    align-items:flex-start;
+    height:"200";
+    width: "200";
+   
+}
+#dis{
+    text-align: left;
+   
+}
+#ord{
+    text-decoration: underline;
+}
+#det{
+    text-align: left;
+}
+#con{
+    text-align: right;
+}
